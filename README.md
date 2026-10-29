@@ -1,6 +1,6 @@
 # Bonjour et bienvenue 👋
 
-Étudiant en **informatique**, je me spécialise dans les **systèmes et réseaux** avec l’ambition de devenir **administrateur systèmes et réseaux**.
+Étudiant en **informatique**, je me spécialise dans les **systèmes et réseaux** avec l’ambition de devenir **administrateur réseaux**.
 
 Je développe mes compétences à travers la pratique, en explorant l’administration de serveurs, la configuration réseau et l’automatisation.
 
@@ -15,7 +15,22 @@ Je construis une **infrastructure de virtualisation** pour expérimenter, déplo
 | **Scripts & automatisation** | PowerShell · Bash · Python |
 | **Systèmes de bureau** | Windows 10/11 · Ubuntu Desktop · Fedora Desktop |
 | **Systèmes serveur** | Windows Server 2022 · Ubuntu Server |
-| **Pare-feu & réseau** | OPNsense · IPFire |
+| **Pare-feu & réseau** | Cisco IOS · OPNsense |
+| **Outils réseau** | Nmap · Wireshark |
 | **Virtualisation** | Hyper-V · Proxmox VE |
 | **Support informatique** | GLPI · WordCraft · GridCraft |
 | **Éditeurs & prise de notes** | Neovim · Zed · Obsidian |
+
+### Mes réalisations et expérimentations 🔬
+
+Déploiement de services d’infrastructure sous **Windows Server** et **Linux** dans le cadre de mon environnement de virtualisation.
+
+| Service | Windows Server | Linux |
+| :--- | :--- | :--- |
+| **DNS** | ✅ Rôle DNS | ✅ BIND9 |
+| **Contrôleur de domaine** | ✅ Active Directory Domain Services | 🚧 Samba |
+| **Stockage & partage de fichiers** | — | 🚧 Nextcloud |
+| **DHCP** | — | ✅ Kea |
+| **Messagerie** | — | 🚧 |
+
+✅ **Terminé** · 🚧 **En cours** · — **Non renseigné**
