@@ -1,12 +1,21 @@
-## Hey there 👋
+# Bonjour et bienvenue 👋
 
-I’m a **Computer Science student** studying systems and networking with the goal of becoming a **systems & network administrator**. I'm currently working on a DIY router with VyOS.
+Étudiant en **informatique**, je me spécialise dans les **systèmes et réseaux** avec l’ambition de devenir **administrateur systèmes et réseaux**.
 
-## Tools & Tech 🛠️
-- **Scripting & Automation**: PowerShell, Bash, Python
-- **Workstation OS**: Win10/11, Ubuntu
-- **Server OS**: Windows Server 2022, Ubuntu Server
-- **Network OS**: OPNsense, VyOS
-- **Virtualization**: Hyper-V, Proxmox VE
-- **IT Support** : GLPI, Microsoft Word, Microsoft Excel
-- **Editors & Note-Taking**: Neovim
+Je développe mes compétences à travers la pratique, en explorant l’administration de serveurs, la configuration réseau et l’automatisation.
+
+### Projet en cours 🚀
+
+Je construis une **infrastructure de virtualisation** pour expérimenter, déployer des services et approfondir ma compréhension des environnements systèmes et réseaux.
+
+### Mon environnement technique 🛠️
+
+| Domaine | Technologies |
+| :--- | :--- |
+| **Scripts & automatisation** | PowerShell · Bash · Python |
+| **Systèmes de bureau** | Windows 10/11 · Ubuntu Desktop · Fedora Desktop |
+| **Systèmes serveur** | Windows Server 2022 · Ubuntu Server |
+| **Pare-feu & réseau** | OPNsense · IPFire |
+| **Virtualisation** | Hyper-V · Proxmox VE |
+| **Support informatique** | GLPI · WordCraft · GridCraft |
+| **Éditeurs & prise de notes** | Neovim · Zed · Obsidian |
